@@ -1,5 +1,5 @@
 export const persons = [
-
+ 
   {
     id: 1,
     name: "Andrej Zadnik",
@@ -1405,6 +1405,22 @@ export const persons = [
       city: "Santa Cruz",
       state: "",
       country: "Bolivia"
+    }
+  },
+  {
+    id: [PREVIOUS_PLUS_ONE],
+    name: "Angela Mizero",
+    img: "https://github.com/AngieHM/AngieHM.github.io/blob/master/profile.png",
+    links: {
+      website: "https://angiehm.github.io",
+      linkedin: "www.linkedin.com/in/angela-mizero",
+      github: "https://github.com/AngieHM/"
+    },
+    jobTitle: "Full Stack Developer",
+    location: {
+      city: "Antwerp",
+      state: "Antwerp",
+      country: "Belgium"
     }
   }
 ];
